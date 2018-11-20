@@ -1,0 +1,13 @@
+According to Globe Newswire, a research report from ResearchAadMarkets.
+com shows that the global market for block chain applications in agriculture and food is expected to reach US $ 1.4 billion by 2028. 
+The world's top four agribusiness enterprises are digitizing international food trade using technologies such as block chains, including Cargill. 
+The data show that the block chain technology has important application prospects in agriculture, 
+and authentication and traceability are also one of the main application scenarios of the block chain. 
+Using the characteristics of non-tampering and timestamps, 
+the block chain technology has been applied in the circulation of agricultural products such as seedlings, 
+and its application in agriculture is still relatively scarce. If the block chain technology is incorporated into the agricultural products trade agreement, 
+the network security problem will be perfectly avoided and countries around the world will be able to realize seamless and secure transactions.
+ Whether it is a large trade transaction between countries or a point-to-point transaction between individuals, it can be carried out safely and effectively.
+ RWE is not only an agricultural product supply chain system ( bio - energy, organic planting and digital agriculture ), 
+but also an intelligent agricultural digital platform based on block chain. 
+Big data system will help scientific production and intelligent contract application to agriculture will help promote agricultural industrialization.
